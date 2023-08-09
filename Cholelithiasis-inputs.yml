@@ -1,0 +1,51 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/cholelithiasis-stones---primary.py
+inputModule3:
+  class: File
+  path: python/colic-cholelithiasis---primary.py
+inputModule4:
+  class: File
+  path: python/cholelithiasis-gallstone---primary.py
+inputModule5:
+  class: File
+  path: python/cholelithiasis---primary.py
+inputModule6:
+  class: File
+  path: python/cholelithiasis-calculus---primary.py
+inputModule7:
+  class: File
+  path: python/cholelithiasis-biliary---primary.py
+inputModule8:
+  class: File
+  path: python/cholelithiasis-gallbladder---primary.py
+inputModule9:
+  class: File
+  path: python/acute-cholelithiasis---primary.py
+inputModule10:
+  class: File
+  path: python/cholelithiasis-obstruct---primary.py
+inputModule11:
+  class: File
+  path: python/other-cholelithiasis---primary.py
+inputModule12:
+  class: File
+  path: python/cholelithiasis-mention---primary.py
+inputModule13:
+  class: File
+  path: python/cholelithiasis-choledocholithiasis---primary.py
+inputModule14:
+  class: File
+  path: python/cholelithiasis-cholecystitis---primary.py
+inputModule15:
+  class: File
+  path: python/cholelithiasis-pancreatitis---primary.py
+inputModule16:
+  class: File
+  path: python/cholelithiasis---secondary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
